@@ -1,0 +1,56 @@
+/********* Common CSS Starts **********/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    font-family: Roboto, sans-serif, arial;
+    font-size: 16px;
+    color: #242424;
+  }
+  p{
+    font-size: 20px;
+    color: bisque;
+    padding: 20px;
+  }
+  image{
+   width: 100%;
+   padd
+  }
+  .container {
+    width: 1300px;
+    margin: 0px auto;
+  }
+  .main-section {
+    width: 100%;
+    float: left;
+    padding: 70px 0px 70px 0px;
+  }
+  .heading {
+    font-size: 28px;
+    font-weight: 500;
+    border-bottom: 1px solid #46b7c1;
+    margin-bottom: 20px;
+    color:grey;
+  }
+  /********* Common CSS End **********/
+  
+  /********* Header HTML CSS Starts **********/
+  .header {
+    background: grey;
+    padding: 6px;
+  }
+  .header b {
+    background: #fff;
+    color: red;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .header marquee {
+    font-size: 20px;
+    color: #ffffff;
+    width: 80%;
+  }
+  /********* Header HTML CSS End **********/
